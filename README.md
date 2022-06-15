@@ -2,7 +2,7 @@
 
 <div>
   <h2>Proposta do projeto.</h2>
-  <p>Este projeto tem a finalidade de executar uma busca filtrada pelos planetas do universo de Star Wars</p>
+  <p>Este projeto tem a finalidade de executar uma busca filtrada pelos planetas do universo de Star Wars.</p>
 </div>
 
 ---
@@ -24,7 +24,7 @@
  - ReactJS;
  - React Function Component;
  - `Context API` para gerenciamento de estado da aplicação;
- - `React hooks`;
+ - `React hooks` (useState, useEffect...);
  - `Hooks` customizados;
 
 ---
