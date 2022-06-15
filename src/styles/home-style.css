@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('../assets/wp7775349.jpg');
+  background-size: cover;
+  color: white;
+}
+
+table {
+  background: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+tr {
+  border: 1px solid black;
+  height: 50px;
+}
+
+td {
+  border: 1px solid white;
+  width: 100px;
+}
+
+.filter-section {
+  margin: 20px 0;
+}
+
+.filter-selected {
+  display: flex;
+  flex-direction: column;
+}
