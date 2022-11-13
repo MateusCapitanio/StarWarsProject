@@ -30,6 +30,6 @@
 ---
 
 ## Como rodar o projeto:
-  1. Clone o repositório (método SSH) `git clone git@github.com:MateusCapitanio/StarWarsProject.git`;
+  1. Clone o repostório;
   2. Execute `npm install`;
   3. Execute `npm start`;
